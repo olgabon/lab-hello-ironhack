@@ -1,0 +1,10 @@
+.Cards-section{
+    margin: 10%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    width: 25vw;
+    margin: 20px;
+}

@@ -1,0 +1,17 @@
+.App-header h1{
+    color: white;
+    font-size: 50px;
+    display: flex;
+}
+.App-header h3 {
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.React-background-img {
+    float: right;
+}
+.App-header{
+    background-color: #202536;
+    padding: 10%;
+}

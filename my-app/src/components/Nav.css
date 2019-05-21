@@ -1,0 +1,6 @@
+.App-nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #202536;
+    padding: 5% 10%;
+}

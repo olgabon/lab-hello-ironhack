@@ -1,0 +1,11 @@
+.App-button {
+    margin-top: 8%;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: #202535;
+    width: 20%;
+}
+.App-button h2 {
+    font-size: 25px;
+}
